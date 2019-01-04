@@ -1,0 +1,22 @@
+*{
+	padding:0;
+	margin: 0;
+}
+ul,li,ol{
+	list-style: none;
+}
+a{
+	text-decoration: none;
+}
+.clear:after{
+	height: 0;
+	clear: both;
+	display: block;
+	content: "";
+}
+#top{
+	margin: 0 auto;
+	height: 170px;
+	width: 1180px;
+	background-color: #0bbf48;
+}
