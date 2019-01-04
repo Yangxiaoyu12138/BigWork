@@ -525,13 +525,28 @@ a{
 	top: 237px;
 	right: -22px;
 }
+#serwei{
+	margin-top: 35px;
+	margin-left: 10px;
+	float: left;
+}
+#gu5{	
+	width: 80px;
+	top: 380px;	
+	margin-bottom: 8px;
+	margin-left: 15px;
+	display: none;
+}
 #you4{
-	position: fixed;
+	position: fixed;	
+	right: -86px;
 	top: 380px;
-	right: -85px;
+	width: 123px;
+	height: 140px;
+	background-color: rgb(253,154,110);
 }
 #you5{
 	position: fixed;
-	top: 435px;
+	top: 525px;
 	right: -85px;
 }
